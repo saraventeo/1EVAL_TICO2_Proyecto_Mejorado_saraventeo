@@ -1,0 +1,57 @@
+h1{
+  margin: auto;
+  color: rgb(154, 71, 71);
+  font-weight: bold;
+  text-decoration: underline;
+  text-shadow: rgb(83, 4, 4) 6px 6px 8px;
+}
+img {
+  float: right;
+  margin-top: 5%;
+  margin-right: 10%;
+}
+p.subt1{
+  margin-left: 5%;
+  font-size: 130%;
+  color: rgb(55, 211, 91);
+  text-shadow: rgb(66, 103, 59) 2px 3px 8px;
+}
+ol{
+  font-size: 90%;
+}
+p.subt2 {
+  color: rgb(65, 52, 187);
+  text-shadow: rgb(76, 51, 157) 2px 3px 8px;
+  margin-left: 5%;
+  font-size: 128%;
+}
+table {
+  margin-left: 5%;
+  margin-right: 5%;
+  border-collapse: collapse;
+  border: rgb(208, 55, 55) 1px solid;
+ }
+tr{
+  border: rgb(208, 55, 55) 1px solid;
+}
+
+span.negrita {
+ font-weight: bold;
+}
+ 
+span.curva {
+  font-style: oblique;
+}
+ 
+span.decolores {
+   color: lightcoral;
+}
+span.decolor{
+   color: violet;
+}
+body{
+  margin-left: 10%;
+  margin-right: 5%;
+  margin-top: 5%;
+  background-color: antiquewhite;
+}
